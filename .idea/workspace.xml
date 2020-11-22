@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c7d32a9-1b02-4750-b4d6-68dc76579a59" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Paysera.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Paysera.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +78,7 @@
       <updated>1605987741703</updated>
       <workItem from="1605987743052" duration="5366000" />
       <workItem from="1605993225723" duration="1740000" />
-      <workItem from="1606064902010" duration="7010000" />
+      <workItem from="1606064902010" duration="7738000" />
     </task>
     <servers />
   </component>
@@ -114,9 +110,13 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="513" y="135" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.900@0.0.1440.900" timestamp="1606072451927" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1605989292084">
+    <state x="497" y="321" key="git4idea.rebase.GitRebaseDialog" timestamp="1606073378085">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1605989292084" />
+    <state x="497" y="321" key="git4idea.rebase.GitRebaseDialog/0.0.1440.900@0.0.1440.900" timestamp="1606073378085" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1606073754277">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1606073754277" />
   </component>
 </project>
